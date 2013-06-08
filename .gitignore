@@ -1,0 +1,6 @@
+#ignore npm repository
+node_modules
+#ignore bower repository
+components
+#ignore copied libraries
+public/lib

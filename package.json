@@ -1,0 +1,11 @@
+{
+  "name": "todo-site",
+  "description": "TODO MVC backend",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "3.x",
+    "grunt": "~0.4.1",
+    "grunt-bower": "~0.5.1"
+  }
+}
